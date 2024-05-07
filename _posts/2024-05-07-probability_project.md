@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "확률 통계론 발표 (영화의 평점과 수익률의 관계)"
+---
+
+# 영화의 평점과 수익률의 관계는 어떨까?
+
+
+I hope you like it!
 {
   "nbformat": 4,
   "nbformat_minor": 0,
