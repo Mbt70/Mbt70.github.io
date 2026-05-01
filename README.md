@@ -1,3 +1,7 @@
+> Personal GitHub Pages site based on the Minimal Mistakes Jekyll theme. Original theme attribution and license information are preserved below.
+
+---
+
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
